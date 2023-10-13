@@ -1,6 +1,6 @@
 kind: Application
 metadata:
-  name: my-app
+  name: second-app-bar
   namespace: argocd
   finalizers:
     - resources-finalizer.argocd.argoproj.io
